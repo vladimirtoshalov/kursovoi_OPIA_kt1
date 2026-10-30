@@ -91,8 +91,3 @@ Q_tmp = ((34.5 - 30.6) / 30.6)^2 = 0.016244 (Состояние: Рост)
 
 <img width="323" height="407" alt="image" src="https://github.com/user-attachments/assets/833740c9-5882-4a9c-8b62-15da15c82b13" />
 
-git add .
-
-git commit -m "docs: add program execution screenshot and fix LaTeX formula in README"
-
-git push origin master
